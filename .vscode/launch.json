@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations":
+    [
+        {
+        "name" : "Run",
+        "program": "${workspaceFolder}/code/game.exe",
+        "type" : "cppvsdbg",
+        "request": "launch",
+        "cwd": "${workspaceFolder}/code"
+
+        }
+
+
+
+    ],
+    "compounds": []
+}
